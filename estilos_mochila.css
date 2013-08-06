@@ -2,3 +2,9 @@ body
 {
 	background: #EFEFEF;
 }
+header
+{
+	background: #FAEDC8;
+	color: #29271A;
+	border: 2px #434343 solid;
+}
