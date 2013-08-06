@@ -2,9 +2,52 @@ body
 {
 	background: #EFEFEF;
 }
-header
+header h1
 {
 	background: #FAEDC8;
 	color: #29271A;
 	border: 2px #434343 solid;
+	margin: 0;
+}
+body #agarradera
+{
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
+}
+body #bolsa_sup_der
+{
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
+}
+body #bolsa_sup_izq
+{
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
+}
+body #bolsa_sup_cent
+{
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
+}
+body #bolsa_inf_izq
+{
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
+}
+body #bolsa_inf_cent
+{
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
+}
+body #botella
+{
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
 }
