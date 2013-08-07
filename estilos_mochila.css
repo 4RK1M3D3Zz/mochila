@@ -2,6 +2,15 @@ body
 {
 	background: #EFEFEF;
 }
+body article
+{
+	border: 1px #434343 solid;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	vertical-align: top;
+}
 header h1
 {
 	background: #FAEDC8;
@@ -14,6 +23,19 @@ body #agarradera
 	background: #FAEDC8;
 	border: 2px #434343 solid;
 	margin: 0;
+	text-align: center;
+}
+body #agarradera_cent
+{
+	width: 30%;
+}
+body #agarradera_der
+{
+	width: 30%;
+}
+body #agarradera_izq
+{
+	width: 30%;
 }
 body #bolsa_sup_der
 {
