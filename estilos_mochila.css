@@ -1,8 +1,9 @@
 body
 {
 	background: #EFEFEF;
+	margin: 0;
 }
-body article
+body article, section
 {
 	border: 1px #434343 solid;
 	display: inline-block;
@@ -17,59 +18,32 @@ header h1
 	color: #29271A;
 	border: 2px #434343 solid;
 	margin: 0;
+	text-align: center;
+	width: 100%;
 }
-body #agarradera
+body #agarradera, #inferior, #superior
 {
 	background: #FAEDC8;
 	border: 2px #434343 solid;
 	margin: 0;
 	text-align: center;
+	width: 100%;
 }
-body #agarradera_cent
+body #agarradera_cent, #agarradera_der, #agarradera_izq
 {
 	width: 30%;
 }
-body #agarradera_der
+body #bolsa_sup_cent, #bolsa_sup_der, #bolsa_sup_izq
 {
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
 	width: 30%;
 }
-body #agarradera_izq
+body #bolsa_inf_izq, #bolsa_inf_cent, #botella
 {
+	background: #FAEDC8;
+	border: 2px #434343 solid;
+	margin: 0;
 	width: 30%;
-}
-body #bolsa_sup_der
-{
-	background: #FAEDC8;
-	border: 2px #434343 solid;
-	margin: 0;
-}
-body #bolsa_sup_izq
-{
-	background: #FAEDC8;
-	border: 2px #434343 solid;
-	margin: 0;
-}
-body #bolsa_sup_cent
-{
-	background: #FAEDC8;
-	border: 2px #434343 solid;
-	margin: 0;
-}
-body #bolsa_inf_izq
-{
-	background: #FAEDC8;
-	border: 2px #434343 solid;
-	margin: 0;
-}
-body #bolsa_inf_cent
-{
-	background: #FAEDC8;
-	border: 2px #434343 solid;
-	margin: 0;
-}
-body #botella
-{
-	background: #FAEDC8;
-	border: 2px #434343 solid;
-	margin: 0;
 }
